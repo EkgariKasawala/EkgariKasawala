@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EkgariKasawala
-- 👀 I’m interested in  BCI systems , machine learnign and AI 
-- 🌱 I’m currently learning   tensorflow and python 
+- 👀 I’m interested in  BCI systems(neurotech) , machine learnign and AI 
+- 🌱 I’m currently learning   tensorflow and SQL 
 - 💞️ I’m looking to collaborate on SSVEP ( EEG) BCI applications   
 - 📫 How to reach me    : ekgariorama@icloud.com ...
 
